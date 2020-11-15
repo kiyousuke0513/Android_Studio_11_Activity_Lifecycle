@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activity_Lifecycle</string>
+    <string name="goto_b_activity">Goto B Activity</string>
+    <string name="main_activity">Main_Activity</string>
+    <string name="goto_a_activity">Goto A Activity</string>
+    <string name="activity_b">Activity_B</string>
+</resources>
